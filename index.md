@@ -4,7 +4,7 @@
 
 ### Category Name 1
 
-[Classification of survey open responses using Logistic Regression](/sample_page)
+[Classification of survey open responses using Logistic Regression](/pdf/reg-model.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
