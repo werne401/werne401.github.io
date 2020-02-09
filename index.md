@@ -5,11 +5,11 @@
 ### Category Name 1
 
 [Classification of survey open responses using Logistic Regression](/pdf/reg-model.pdf)
-<img src="images/log_reg_vs_linear.jpg?raw=true"/>
+<img src="images/log_reg_vs_linear.png?raw=true"/>
 
 ---
 [New Hire Forescast: Regression and Bootstrapped Confidence Intervals](/pdf/ecolab_bootstrap_model.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ecolab_bootstrap_thumbnail.PNG?raw=true"/>
 
 ---
 [Latent-Dirichlet Allocation document categorization](http://example.com/)
