@@ -8,7 +8,7 @@
 <img src="images/log_reg_vs_linear.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[New Hire Forescast: Regression and Bootstrapped Confidence Intervals](/pdf/ecolab_bootstrap_model.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
