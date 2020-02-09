@@ -1,6 +1,6 @@
 ## Developer Portfolio Landing Page Template
 
-This is my personal portfolio website - the template is sourced from [https://blog.usejournal.com/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd](https://blog.usejournal.com/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd)
+This is my personal portfolio website - the template is sourced from a [blog post by Ivanna Kacewica](https://blog.usejournal.com/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd)
 ___
 
 References:

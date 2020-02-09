@@ -15,7 +15,6 @@
 [Latent-Dirichlet Allocation document categorization](/pdf/lda-model-example.pdf)
 <img src="images/barTopic4.png?raw=true"/>
 
-
 ---
 [Web Analytics Report - Google Analytics](/web-analytics-report.pdf)
 <img src="images/google-analytics-logo.png?raw=true"/>
