@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Passionate about data science and working with people.
   <br><br>
-  [Resume](/pdf/reg-model.pdf)
+  <a href="/pdf/reg-model.pdf">View My LinkedIn Profile</a>
+  <br>
   <a href="https://www.linkedin.com/in/lee-werner/">View My LinkedIn Profile</a>
 
 theme: jekyll-theme-minimal
