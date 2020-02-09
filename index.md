@@ -18,7 +18,7 @@
 
 ---
 [Web Analytics Report - Google Analytics](/web-analytics-report.pdf)
-<img src="images/web_analytics_image.png?raw=true"/>
+<img src="images/google-analytics-logo.png?raw=true"/>
 
 ---
 
