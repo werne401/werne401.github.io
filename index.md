@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1
+### Projects
 
 [Classification of survey open responses using Logistic Regression](/pdf/reg-model.pdf)
 <img src="images/log_reg_vs_linear.png?raw=true"/>
