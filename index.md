@@ -12,8 +12,13 @@
 <img src="images/ecolab_bootstrap_thumbnail.PNG?raw=true"/>
 
 ---
-[Latent-Dirichlet Allocation document categorization](http://example.com/)
+[Latent-Dirichlet Allocation document categorization](/pdf/lda-model-example.pdf)
 <img src="images/barTopic4.png?raw=true"/>
+
+
+---
+[Web Analytics Report - Google Analytics](/web-analytics-report.pdf)
+<img src="images/web_analytics_image.png?raw=true"/>
 
 ---
 
