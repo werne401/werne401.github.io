@@ -13,11 +13,11 @@
 
 ---
 [Latent-Dirichlet Allocation document categorization](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/barTopic4.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Index
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
